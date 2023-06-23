@@ -5,6 +5,8 @@
     box-sizing: border-box;  
 }
 
+
+
 /*Navbar styling*/
 .myNav{
     position: fixed;
@@ -49,8 +51,7 @@
     color: black;
     text-decoration: none;
     text-decoration: solid;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', 
-    sans-serif;
+    font-family: 'Roboto',serif;
     font-size: small;
     /* border: 2px solid black;
     background-color: black; */
@@ -112,7 +113,7 @@
     background-color: orangered;
 }
 .aboutDiv>h4{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Roboto',serif;
     font-size: 20px;
     align-items: center;
     position: relative;
@@ -122,7 +123,7 @@
  border: 1px solid black;
  padding: 20px;
  margin-top: 60px;
- font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ font-family: 'Roboto',serif;
 font-size: 16px;
 background-color: red;
 box-shadow: 10px 20px 20px;
@@ -144,7 +145,7 @@ box-shadow: 10px 20px 20px;
 }
 .workDiv>h4{
     text-align: center;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Roboto',serif;
     font-size: 30px;
     align-items: center;
     position: relative;
@@ -153,7 +154,7 @@ box-shadow: 10px 20px 20px;
 .workDiv>p{
 border: 1px solid black;
 padding: 20px;
-font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-family: 'Roboto',serif;
 font-size: 16px;
 background-color: orangered;
 box-shadow: 10px 20px 20px;
@@ -252,7 +253,7 @@ height: 500px;
     font-size: 30px;
     position: relative;
     top: -30px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Roboto',serif;
 }
 .divParagraph{
     border: 1px solid black;
@@ -265,7 +266,7 @@ height: 500px;
 .divParagraph>p{
 border: 2px solid black;
 padding: 20px;
-font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-family: 'Roboto',serif;
 font-size: 16px;
 background-color: orange;
 box-shadow: 10px 20px 20px;
@@ -294,7 +295,7 @@ width: 100%;
     list-style: circle;
 }
 ul>li{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Roboto',serif;
 }
 
 /*contact styling*/
@@ -312,13 +313,13 @@ ul>li{
     font-size: 30px;
     position: relative;
     top: 40px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Roboto',serif;
 }
 .contactSection>p{
     position: relative;
     top: 25%;
     text-align: center;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Roboto',serif;
     z-index: 3;
 }
 .divCover{
@@ -332,7 +333,7 @@ ul>li{
     box-shadow: 10px 20px 20px 6px;
 }
 .contactButton{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Roboto',serif;
     background-color: orangered;
     color: black;
     width: 70px;
@@ -374,25 +375,25 @@ form{
     position: relative;
     left: 19%;
     top: -14px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Roboto',serif;
 }
 label{
     margin-left: 10px; 
 }
 input{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Roboto',serif;
     background-color: orange;
     border: 2px solid black;
 }
 :placeholder-shown{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Roboto',serif;
 }
 text{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Roboto',serif;
     font-size: 13px;
 }
 .btn{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Roboto',serif;
     background-color: orangered;
     color: black;
     width: 79px;
@@ -420,8 +421,7 @@ text{
     background-color: orangered;
 }
 .footerSection>p{
-   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', 
-   sans-serif; 
+ font-family: 'Roboto',serif; 
    text-align: center;
    margin-top: 19px;
 }
